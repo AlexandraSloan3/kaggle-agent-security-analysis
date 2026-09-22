@@ -1,0 +1,4 @@
+# Optional tools for opening and reviewing the notebooks.
+# Evaluation dependencies are described in docs/reproduction.md.
+# This is not a lockfile for the original competition environment.
+jupyterlab

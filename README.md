@@ -2,7 +2,9 @@
 
 This repository is a technical explanation and analysis of **probe-then-scale**, an attack-search method for the Kaggle competition *AI Agent Security: Multi-Step Tool Attacks*. The method tests two email-tool prompt templates, compares their success-based reward per second of probe time, and generates candidates from the better-performing template.
 
-The submitted code is my team's, adapted from a public Kaggle notebook by Adhiraj Jagtap. This repository and the accompanying presentation are my technical analysis of that approach: how it works, why each design choice targets the evaluation, and what the available evidence does and does not support.
+## My contribution
+
+The submitted code is my team's, adapted from a public Kaggle notebook by Adhiraj Jagtap. My own work is the analysis around it: explaining why a per-second reward suits a budgeted evaluator, separating the graded submission from the validation experiment so their results are not conflated, mapping each claim to the evidence that does and does not support it, and designing the experiments that would close those gaps. The reasoning and the presentation are mine.
 
 | Project | Details |
 | --- | --- |

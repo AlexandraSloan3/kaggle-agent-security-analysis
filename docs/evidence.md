@@ -14,7 +14,6 @@ The submission received a **Competition Bronze Medal** in **AI Agent Security: M
 | Relative standing | Top 6.7%, calculated as `281 / 4186 × 100` and rounded to one decimal place |
 | Award date | September 2, 2026 |
 | Certificate | [Original certificate image](../assets/kaggle-bronze-certificate.jpg) |
-| Competition leaderboard | [Kaggle leaderboard](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) |
 
 ## Certificate
 
